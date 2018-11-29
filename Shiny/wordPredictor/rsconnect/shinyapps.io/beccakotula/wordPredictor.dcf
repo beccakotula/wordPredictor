@@ -1,0 +1,12 @@
+name: wordPredictor
+title: wordPredictor
+username:
+account: beccakotula
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 596339
+bundleId: 1729145
+url: https://beccakotula.shinyapps.io/wordPredictor/
+when: 1543510629.91195
+asMultiple: FALSE
+asStatic: FALSE
