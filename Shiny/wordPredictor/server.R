@@ -1,6 +1,5 @@
 suppressPackageStartupMessages(c(library(ngram), library(quanteda), library(tm), library(data.table), library(stringr), library(stringi), library(shinythemes)))
 
-#setwd("/Users/rebeccakotula/Desktop/Coursera/Data Science Capstone/Shiny/wordPredictor/")
 source("prep.R")
 source("predict.R")
 
